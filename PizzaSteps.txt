@@ -1,0 +1,5 @@
+1. Call
+2. Place
+3. Pay
+4. Wait
+5. Receive
